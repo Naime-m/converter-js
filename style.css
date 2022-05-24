@@ -4,4 +4,36 @@ font-style: normal;
 font-weight: 800;
 font-size: 22px;
 line-height: 38px;
+text-align: center;
+color: #FFFFFF;
 }
+
+h2{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+color: #FFFFFF;
+}
+
+p{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+color: #D2D2D2;
+}
+
+
+.title{
+    background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+    text-align: center;
+}
+.results{
+    background: #1F2937;
+}
+
